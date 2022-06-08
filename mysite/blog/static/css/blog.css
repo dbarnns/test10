@@ -5,7 +5,7 @@ body {
 }
 
 a { 
-    color:#00abff;
+    color:#786d36;
     text-decoration:none; 
 }
 
@@ -13,6 +13,7 @@ h1 {
     font-weight:normal;
     border-bottom:1px solid #bbb;
     padding:0 0 10px 0;
+	
 }
 
 h2 {
@@ -24,6 +25,8 @@ h2 {
     float:left;
     width:60%;
     padding:0 0 0 30px; 
+	background-color: #96cfd5;
+	
 }
 
 #sidebar { 
@@ -35,7 +38,7 @@ h2 {
 }
 
 p.date { 
-    color:#ccc;
+	color: #ffffff;
     font-family: georgia, serif;
     font-size: 12px;
     font-style: italic; 
